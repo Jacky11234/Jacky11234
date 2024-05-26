@@ -11,7 +11,8 @@ I possess strong analytical and problem-solving skills, with a proactive approac
 
 Skilled in Excel (including Power Query), SQL, Power BI, Python, Power Automate, and Power Apps. I have a strong preference for using Python and have expertise in Machine Learning.
 
-💻PROJECTS
+## 💻PROJECTS
+
 Please feel free to view my below data analytics projects with links embedded:
 
 [Power BI Financial Statement Project](https://github.com/Jacky11234/Power_BI_Financial_Statement_Project)
