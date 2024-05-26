@@ -14,6 +14,6 @@ Skilled in Excel (including Power Query), SQL, Power BI, Python, Power Automate,
 💻PROJECTS
 Please feel free to view my below data analytics projects with links embedded:
 
-[Power BI Financial Statement Project(https://github.com/Jacky11234/Power_BI_Financial_Statement_Project)
+[Power BI Financial Statement Project](https://github.com/Jacky11234/Power_BI_Financial_Statement_Project)
 
 [Power BI Customer Churn Project](https://github.com/Jacky11234/Power_BI_-_Python_Customer_Churn_Prediction_Project)
