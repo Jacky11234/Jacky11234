@@ -1,9 +1,9 @@
 # Jacky Guo
 
 
-##  INTRODUCTION
+##  :bulb: INTRODUCTION
 
-:blush: I am passionate about working with complex data and providing business insights to assist managers in making data-driven decisions.
+ I am passionate about working with complex data and providing business insights to assist managers in making data-driven decisions.
 
 I am a Certified Practising Accountant (CPA, Australia) with IBM Data Analyst and IBM Machine Learning certifications, and Power BI Data Analyst certified with years of experience in data cleaning/analysis, programming, and accounting.
 
