@@ -18,3 +18,5 @@ Please feel free to view my below data analytics projects with links embedded:
 [Power BI Financial Statement Project](https://github.com/Jacky11234/Power_BI_Financial_Statement_Project)
 
 [Power BI Customer Churn Project](https://github.com/Jacky11234/Power_BI_-_Python_Customer_Churn_Prediction_Project)
+
+[Power BI Budget vs Actual](https://app.powerbi.com/view?r=eyJrIjoiYTU2NTA5MDItZjNiMy00NWI4LTg0MzMtMTZjM2I0NWNkOTUxIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
